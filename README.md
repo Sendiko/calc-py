@@ -26,10 +26,6 @@ The `clear` method sets the `expression` attribute to an empty string and sets t
 4. To delete the last entered character, press the "DEL" button.
 
 5. To calculate the result, press the "=" button. The result will be displayed in the calculator's display.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 <br>
 <br>
 <br>
@@ -62,8 +58,4 @@ Metode `clear` mengatur atribut `expression` menjadi string kosong dan mengatur 
 4. Untuk menghapus karakter terakhir yang dimasukkan, tekan tombol "DEL".
 
 5. Untuk menghitung hasil, tekan tombol "=" Hasil akan ditampilkan di tampilan kalkulator.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
 
