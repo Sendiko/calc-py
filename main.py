@@ -44,7 +44,7 @@ class Calculator:
         if key == '=':
             # Calculate the result
             try:
-                result = str(eval(self.expression))
+                result = round(eval(self.expression), 2)  # round the result to 2 decimal places
             except:
                 result = 'ERROR'
             self.display.delete(0, tk.END)
